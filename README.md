@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working on ...
+
+As a consultant and business owner, my projects are scattered across multiple services, accounts, and levels of privacy. Because of this, my github profile can look sparse and be unfairly used to judge how much I code. Please consider this if you are here as someone hiring or seeking my services. Thanks!
+
 <!--
 **justinxreese/justinxreese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
